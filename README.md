@@ -6,9 +6,6 @@ Desktop application untuk mengelola Cloudflare Tunnels dan port forwarding di Wi
 
 Download installer terbaru dari [Releases](https://github.com/dhannyjsb/CTM/releases)
 
-**Latest Version:** v1.0.1
-
-- [CTM-Setup-1.0.1.exe](https://github.com/dhannyjsb/CTM/releases/download/v1.0.1/CTM-Setup-1.0.1.exe)
 
 ## ✨ Features
 
