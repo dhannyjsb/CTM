@@ -28,6 +28,8 @@ Download installer terbaru dari [Releases](https://github.com/dhannyjsb/CTM/rele
 
 ## 📋 Requirements
 
+- (Untuk yang free, ini tidak di perlukan)
+
 - Windows 10/11
 - Cloudflare account dengan domain aktif
 - Cloudflare API Token ([Create Token](https://dash.cloudflare.com/profile/api-tokens))
